@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this project in your research or educational work, please cite it."
+title: "Quant Trading Learning"
+authors:
+  - name: "Thanyaphat DhaninBhokinskul"
+version: 0.1.0
+url: "https://github.com/YOUR-ORGANIZATION/quant-trading-learning"
