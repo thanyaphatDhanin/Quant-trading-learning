@@ -1,4 +1,4 @@
-# Alpha Series 06: Information Ratio (IR) และ Information Coefficient (IC)
+# Alpha Series 06 : Alpha-properties 01: Information Ratio (IR) และ Information Coefficient (IC)
 
 สวัสดีค่ะ นี่เป็นหัวข้อที่หกของซีรีส์ **Alpha**
 
